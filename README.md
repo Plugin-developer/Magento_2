@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.1.0-informational)
+[![GitHub license](https://img.shields.io/github/license/eservice-electronic-payments/Magento_2)](https://github.com/eservice-electronic-payments/Magento_2/blob/master/LICENSE) ![Version](https://img.shields.io/badge/version-1.1.0-informational)
 
 This plugin is provided for eService merchants using Magento 2.x
 
