@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/version-1.1.0-informational)
 
-This plugin is provided for BOIPA merchants using Magento 2.x
+This plugin is provided for eService merchants using Magento 2.x
 
 Got a question? Email wdrozenia_ecommerce@eservice.com.pl for assistance.
 
